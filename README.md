@@ -1,4 +1,4 @@
-# Livro de recitas 👨‍🍳
+# Livro de receitas 👨‍🍳
 
 Este é um projeto do curso 'Introdução ao Git e ao GitHub' da [DIO](https://www.dio.me). 💻
 
